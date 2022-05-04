@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+$margen: 200px;
+
+body{
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+.menu{
+    margin: $margen/4;
+}
